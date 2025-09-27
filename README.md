@@ -104,5 +104,5 @@ This project demonstrates that even a **baseline ML pipeline** with TF-IDF + Log
 
 ## 👩🏽‍💻 Author
 
-Developed by **[Mercy Okanlawon]**
+Developed by **Mercy Okanlawon**
 Feel free to open issues or suggest improvements.
