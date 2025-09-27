@@ -12,18 +12,18 @@ The goal of this project is to build a **text classification model** that predic
 
 The dataset consists of product descriptions and their corresponding categories.
 
-* **Number of samples:** ~50,000 products
+* **Number of samples:** ~50,425 products
 * **Categories:** 4 main groups (Books, Clothing & Accessories, Electronics, Household)
 * **Example rows:**
 
 | Description                                         | Category               |
 | --------------------------------------------------- | ---------------------- |
-| "A thrilling mystery novel set in Victorian London" | Books                  |
-| "Men’s cotton polo shirt, size L"                   | Clothing & Accessories |
-| "Smartphone with 128GB storage and 48MP camera"     | Electronics            |
-| "Non-stick frying pan with heat-resistant handle"   | Household              |
+| Barron's TOEFL iBT 15th edition (DVD) This is ...   | Books                  |
+| Vibhavari Men's Black Sleek Tie, Pocket Square...   | Clothing & Accessories |
+| Tokina 11-16mm f/2.8 AT-X116 Pro DX II Digital...   | Electronics            |
+| Camlin Arfina Artist'S Picture Varnish Spray C...   | Household              |
 
-This dataset reflects typical real-world e-commerce text data: short, sometimes noisy, with inconsistent formatting.
+This dataset reflects typical real-world e-commerce text data: include specs, sometimes noisy, with inconsistent formatting.
 
 ---
 
